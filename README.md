@@ -1,5 +1,5 @@
 # Encrypty
-A program that lets you encrypt a message.
+A program that lets you encrypt a message, using a reversed alphabet.
 
 1. The program stores an array that holds the characters in the alphabet.
 2. Slicing is used to access the array and reverse it.
